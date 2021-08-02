@@ -1599,7 +1599,7 @@ section {
   position: relative;
   z-index: 2;
   text-align: center;
-  padding: 80px 0;
+  padding: 40px 0;
 }
 
 #footer .footer-top .footer-logo img {
@@ -1690,11 +1690,11 @@ section {
 }
 
 #footer .footer-bottom {
-  border-top: 1px solid #222222;
+  border-top: 1px solid #7cc576;
   z-index: 2;
   position: relative;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 #footer .copyright {
